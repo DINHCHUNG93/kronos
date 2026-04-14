@@ -1,3 +1,23 @@
+Kronos: Trợ lý đọc biểu đồ tài chính chuyên nghiệp
+
+Kronos là một mô hình AI mã nguồn mở được thiết kế với một mục đích duy nhất: Đọc và hiểu biểu đồ nến của thị trường tài chính giống hệt cách ChatGPT hiểu văn bản tiếng Anh.
+
+🔥 Điểm nổi bật
+• Học từ dữ liệu khổng lồ → Đã xem qua 12 tỷ bản ghi từ 45 sàn giao dịch lớn nhất thế giới như Binance, NYSE, NASDAQ.
+• Dự đoán giá và biến động → Nạp biểu đồ nến vào, AI sẽ dự báo giá đi về đâu và mức độ dao động mạnh hay yếu trước khi nó xảy ra.
+• Khả năng Zero-shot → Tải về là chạy được ngay trên mọi thị trường, mọi khung thời gian mà không cần tốn công fine-tuning.
+• Nhẹ và miễn phí → Có 4 kích cỡ mô hình. Bản nhỏ gọn nhất chạy mượt mà ngay trên laptop cá nhân. Hoàn toàn miễn phí thay vì phải trả 24.000 USD/năm như các công cụ tài chính đắt đỏ.
+
+⚠️ Đánh giá và Hoạt động thực tế
+• Độ chính xác vượt trội: Đo lường thực tế cho thấy Kronos chính xác hơn 93% so với các mô hình dự đoán chuỗi thời gian tốt nhất hiện nay.
+• Cách làm việc khác biệt: Các AI khác thường xử lý dữ liệu tài chính giống như dữ liệu thời tiết. Kronos dùng một Tokenizer chuyên dụng để gom dữ liệu giá (mở, cao, thấp, đóng) thành các token, giúp AI thực sự hiểu được bản chất của biểu đồ.
+• Dễ dàng tùy chỉnh: Mặc dù chạy tốt ngay lập tức, dự án vẫn cung cấp sẵn các bộ công cụ để bạn tự fine-tuning AI bằng dữ liệu riêng của bạn (ví dụ: chứng khoán trong nước).
+• Được kiểm chứng: Do Đại học Thanh Hoa phát triển, được hội nghị trí tuệ nhân tạo AAAI 2026 công nhận và đang thu hút hơn 13.000 lượt yêu thích trên GitHub.
+
+💡 Kronos đã biến việc phân tích biểu đồ thông thường → Trợ lý AI tự động đọc hiểu và dự báo biểu đồ nến với độ chính xác cao.
+Ae trader sử dụng con này đi xịn xò đó!!!
+
+
 <div align="center">
   <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>
 </div>
